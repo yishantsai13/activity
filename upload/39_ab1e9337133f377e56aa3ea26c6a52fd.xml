@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AlcoholImageFileList version="1.1">
+  <ImgFolder id="0">
+    <ImgFile id="0" Description="A-Train9StructureKit" Path="D:\軟體\映像檔\A Train 9\A-Train9StructureKit.iso" />
+    <ImgFile id="1" Description="A-Train9StructureKitYodo" Path="D:\軟體\映像檔\A Train 9\A-Train9StructureKitYodo.iso" />
+    <ImgFile id="2" Description="ATRAIN8" Path="D:\軟體\映像檔\A Train 8中文正版\ATRAIN8.MDS" />
+    <ImgFile id="3" Description="ATrain9" Path="D:\軟體\映像檔\A Train 9\ATrain9.ISO" />
+    <ImgFile id="4" Description="rzr-atr8" Path="D:\軟體\映像檔\A-Train_8-Razor1911\rzr-atr8.iso" />
+    <ImgFile id="5" Description="Visual_studio_2008_PRO_(含MSDN)CHT" Path="D:\軟體\映像檔\Visual_studio_2008_PRO_(含MSDN)CHT.iso" />
+  </ImgFolder>
+</AlcoholImageFileList>
